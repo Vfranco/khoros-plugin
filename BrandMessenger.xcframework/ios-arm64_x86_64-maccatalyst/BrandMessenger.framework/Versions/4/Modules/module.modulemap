@@ -1,0 +1,6 @@
+framework module BrandMessenger {
+  umbrella header "BrandMessenger.h"
+
+  export *
+  module * { export * }
+}
